@@ -6,4 +6,7 @@ public interface Escribano extends Writer{
 	public void imprime(String s);
 	public void imprimeln(String s);
 	public void finalizar();
+
+
+	public sdfjndsdcnjdk();
 }
